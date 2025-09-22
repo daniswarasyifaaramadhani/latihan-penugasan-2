@@ -29,7 +29,6 @@ Repo ini aku buat buat **eksperimen + belajar fitur-fitur Git & GitHub** dari ba
 7. **Issues** 🐞 → catatan bug / ide / tugas.
 8. **Profile README** ✨ → semacam bio kece di GitHub.
 
-
 ## 🍀 Kesimpulan
 Repo ini isinya catatan gemes aku selama belajar Git & GitHub 🐱✨  
 Semoga makin jago dan bisa collab bareng temen-temen pake GitHub 💖
